@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BG9O5QS RO1NT0OPersonal DetailsContact _321835</name>
+   <tag></tag>
+   <elementGuidId>8b5bb6fe-f405-4f93-8493-3e1e9d4b0495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-edit-employee</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0b9178d-f026-41e0-a08e-bf072d5afdc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-edit-employee</value>
+      <webElementGuid>ff866cf1-e354-459c-b705-f8872382d0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BG9O5QS RO1NT0OPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver's License NumberLicense Expiry DateSSN NumberSIN NumberNationality-- Select --Marital Status-- Select --Date of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood Type-- Select -- Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions</value>
+      <webElementGuid>8b9deba1-4799-4975-8fb1-872116f5922a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]</value>
+      <webElementGuid>0996cc3e-4629-46a8-beee-a09c80441651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>71576c2b-6550-48f5-ae67-f7c1539e9aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::div[6]</value>
+      <webElementGuid>5c2ae0f3-5ff7-4e9e-ada0-a56608e19441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>f3ff4aa8-6201-4197-a6ee-16d3865d0a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;BG9O5QS RO1NT0OPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationality-- Select --Marital Status-- Select --Date of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood Type-- Select -- Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;) or . = concat(&quot;BG9O5QS RO1NT0OPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryTax ExemptionsReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateSSN NumberSIN NumberNationality-- Select --Marital Status-- Select --Date of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood Type-- Select -- Save Attachments Add No Records FoundFile NameDescriptionSizeTypeDate AddedAdded ByActions&quot;))]</value>
+      <webElementGuid>a363d362-759a-420a-9016-b60980045730</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

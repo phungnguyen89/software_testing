@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Update_Contact_Detail_Mutiple_Times</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e33f8864-e1c8-4776-a918-984d28553967</testSuiteGuid>
+   <testCaseLink>
+      <guid>8292f0aa-8dae-4071-8190-f600e6b1c1aa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Update_Contact_detail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9c255ebe-47e3-4c79-8975-f47cf6960c4e</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/ListEmployee</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9c255ebe-47e3-4c79-8975-f47cf6960c4e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>street</value>
+         <variableId>def97898-f23e-40d2-84fa-6efbd01f4378</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9c255ebe-47e3-4c79-8975-f47cf6960c4e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>state</value>
+         <variableId>935ede12-cbbd-48ea-9fc3-6583650a0490</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9c255ebe-47e3-4c79-8975-f47cf6960c4e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>zipcode</value>
+         <variableId>0dcd6e65-170c-462c-ac34-a46890921613</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9c255ebe-47e3-4c79-8975-f47cf6960c4e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phone</value>
+         <variableId>51f9342f-e9e4-42a2-9ccd-1a83cd0e3169</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
